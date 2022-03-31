@@ -1,5 +1,5 @@
 # solution_soup
-Solution for assignment, coding test, etc.
+Various solutions for Uni assignments, coding test exams, etc.
 
 
 forCT : 코딩테스트 대비를 위한 고급 문제 풀이
